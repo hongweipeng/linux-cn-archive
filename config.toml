@@ -1,0 +1,4 @@
+baseURL = 'https://linux.cn/'
+languageCode = 'en-us'
+title = 'Linux 中国·开源社区-镜像'
+theme = 'mainroad'
